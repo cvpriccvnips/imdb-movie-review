@@ -5,6 +5,8 @@
 
 Create an API using nodejs and express that does CRUD (Create, Read, Update and Delete) operations using Mysql. Put the API in a `api` folder.
 
+Use Bootstrap CSS, three.JS for 3D animation.
+
 Example applications: note-taking, recipe collection, movie/book review, blog,... etc
 
 Create a client webpage that connects to your API and includes the following pages:
