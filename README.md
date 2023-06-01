@@ -1,4 +1,7 @@
-# assignment-02
+# IMDB-MOVIE-REVIEW
+
+![image](https://github.com/jindacz/imdb-movie-review/assets/70824612/bede0fb3-3992-42b4-ae72-ee261e6e37e0)
+
 
 Create an API using nodejs and express that does CRUD (Create, Read, Update and Delete) operations using Mysql. Put the API in a `api` folder.
 
